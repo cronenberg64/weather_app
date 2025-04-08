@@ -1,15 +1,8 @@
 # weather_app
 
-A new Flutter project.
+I'm making this project for the purpose of understanding APIs in flutter through a project based learning approach
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Through this project, or as of writing right now, a lot of the files ended up corrupt the day after I finalized my version which sucks so hopefully as they are right now on github they're not corrupted as I had just fixed those corrupt files (not sure if it did fix it or not)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
