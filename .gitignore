@@ -1,0 +1,20 @@
+# Dart
+.dart_tool/
+.packages
+.pub/
+build/
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.melody/
+.melos_tool/
+generated_plugin_registrant.*
+# macOS, Windows, Linux builds
+macos/Flutter/GeneratedPluginRegistrant.swift
+windows/flutter/generated_plugin_registrant.*
+linux/flutter/generated_plugin_registrant.*
+
+# Other
+.idea/
+*.iml
+*.log
